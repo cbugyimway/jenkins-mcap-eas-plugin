@@ -20,9 +20,9 @@
 		</f:entry>
 
 		<f:advanced>
-			<f:entry field="apiReleaseStatus"
+			<f:entry title="Application release status"
+				 	 field="apiReleaseStatus">
 				 	 help="/plugin/Relution/help-apiReleaseStatus.html"
-					 title="${%Relution release status}">
    				<f:select />
 			</f:entry>
 			<f:entry title="Application name (optional)"
@@ -35,12 +35,12 @@
 				 	 help="/plugin/Relution/help-applicationIcon.html">
 					 <f:textbox/>		 
 			</f:entry>
-			<f:entry field="applicationReleaseNotes"
+			<f:entry title="Application change log file (optional)">
+					 field="applicationReleaseNotes"
 				 	 help="/plugin/Relution/help-applicationReleaseNotes.html"
-					 title="Application change log file (optional)">
    				<f:textbox />
 			</f:entry>
-			<f:entry title="Description (optional)"
+			<f:entry title="Application description (optional)"
     		 			 field="applicationDescription"
     		 			 help="/plugin/Relution/help-applicationDescription.html">
 					<f:textbox />
