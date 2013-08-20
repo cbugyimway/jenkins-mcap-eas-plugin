@@ -14,7 +14,7 @@
 	
   	<scm>
 	    <connection>scm:git:ssh://github.com/cbugyimway/jenkins-mcap-eas-plugin.git</connection>
-	    <developerConnection>scm:git:ssh://git@github.com:cbugyimway/jenkins-mcap-eas-plugin.git</developerConnection>
+	    <developerConnection>scm:git:ssh://git@github.com/cbugyimway/jenkins-mcap-eas-plugin.git</developerConnection>
 	    <url>https://github.com/cbugyimway/jenkins-mcap-eas-plugin</url>
 	</scm>
   	
