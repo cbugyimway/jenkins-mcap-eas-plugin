@@ -35,9 +35,9 @@
 				 	 help="/plugin/Relution/help-applicationIcon.html">
 					 <f:textbox/>		 
 			</f:entry>
-			<f:entry title="Application change log file (optional)">
+			<f:entry title="Application change log file (optional)"
 					 field="applicationReleaseNotes"
-				 	 help="/plugin/Relution/help-applicationReleaseNotes.html"
+				 	 help="/plugin/Relution/help-applicationReleaseNotes.html">
    				<f:textbox />
 			</f:entry>
 			<f:entry title="Application description (optional)"
