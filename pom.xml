@@ -12,11 +12,11 @@
 	<version>1.526</version>
 	<packaging>hpi</packaging>
 	
-	  	<scm>
-		    <connection>scm:git:ssh://github.com/jenkinsci/jenkins-mcap-eas-plugin.git</connection>
-		    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/jenkins-mcap-eas-plugin.git</developerConnection>
-		    <url>https://github.com/jenkinsci/jenkins-mcap-eas-plugin</url>
-  		</scm>
+  	<scm>
+	    <connection>scm:git:ssh://github.com/jenkinsci/jenkins-mcap-eas-plugin.git</connection>
+	    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/jenkins-mcap-eas-plugin.git</developerConnection>
+	    <url>https://github.com/jenkinsci/jenkins-mcap-eas-plugin</url>
+	</scm>
   	
   		
 	<!-- 
