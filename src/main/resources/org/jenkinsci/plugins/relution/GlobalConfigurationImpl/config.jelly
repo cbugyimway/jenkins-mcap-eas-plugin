@@ -42,11 +42,11 @@
 			 			 help="/plugin/Relution/help-apiPassword.html">
 					<f:password />		 
 				</f:entry>
-				<f:validateButton title="${%Test Connection}" 
+				<f:validateButton title="${%Test connection}" 
 								  progress="${%Testing...}"
    								  method="testConnection" 
    								  with="apiEndpoint,apiUsername,apiOrganization,apiPassword" />
-   				<f:entry title="${%Relution Release Statuses}"
+   				<f:entry title="${%Application status}"
         				 field="apiReleaseStatus"
     	 			 	 help="/plugin/Relution/help-apiReleaseStatus.html">
     	 			<f:select/>

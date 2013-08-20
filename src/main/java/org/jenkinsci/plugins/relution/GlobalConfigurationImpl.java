@@ -271,10 +271,10 @@ public class GlobalConfigurationImpl extends GlobalConfiguration {
         			" Errormessage: " + response);
         }
     	if(response.equals("success")) {
-    		return FormValidation.ok(Messages.Relution_successfulLogin() + endpoint);
+    		return FormValidation.ok(Messages.Relution_successfulLogin() );
     	}
     	else {
-    		return FormValidation.error(Messages.Relution_unsucessfullLogin() + endpoint + " Errormessage: : " + response);
+    		return FormValidation.error(Messages.Relution_unsucessfullLogin() + " Errormessage: : " + response);
     	}
     }
     
