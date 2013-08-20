@@ -106,9 +106,10 @@
 		<maven-hpi-plugin.version>1.97</maven-hpi-plugin.version>
 	</properties>
 
-  <scm>
-    <connection>scm:svn:https://svn.jenkins-ci.org/tags/github</connection>
-    <developerConnection>scm:svn:https://svn.jenkins-ci.org/tags/github</developerConnection>
-    <url>https://svn.jenkins-ci.org/tags/github</url>
-  </scm>
+  <!--	<scm>
+    		<connection>scm:svn:https://svn.jenkins-ci.org/tags/github</connection>
+    		<developerConnection>scm:svn:https://svn.jenkins-ci.org/tags/github</developerConnection>
+    		<url>https://svn.jenkins-ci.org/tags/github</url>
+		</scm>
+   -->
 </project>
