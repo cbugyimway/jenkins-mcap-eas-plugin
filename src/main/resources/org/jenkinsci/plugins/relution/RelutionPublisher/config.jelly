@@ -21,8 +21,8 @@
 
 		<f:advanced>
 			<f:entry title="Application release status"
-				 	 field="apiReleaseStatus">
-				 	 help="/plugin/Relution/help-apiReleaseStatus.html"
+				 	 field="apiReleaseStatus"
+				 	 help="/plugin/Relution/help-apiReleaseStatus.html">
    				<f:select />
 			</f:entry>
 			<f:entry title="Application name (optional)"
