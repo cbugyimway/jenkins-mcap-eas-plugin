@@ -9,13 +9,13 @@
 
 	<groupId>org.jenkins-ci.plugins</groupId>
 	<artifactId>Relution</artifactId>
-	<version>1.526</version>
+	<version>1.526-SNAPSHOT</version>
 	<packaging>hpi</packaging>
 	
   	<scm>
-	    <connection>scm:git:ssh://github.com/jenkinsci/jenkins-mcap-eas-plugin.git</connection>
-	    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/jenkins-mcap-eas-plugin.git</developerConnection>
-	    <url>https://github.com/jenkinsci/jenkins-mcap-eas-plugin</url>
+	    <connection>scm:git:ssh://github.com/cbugyimway/jenkins-mcap-eas-plugin.git</connection>
+	    <developerConnection>scm:git:ssh://git@github.com:cbugyimway/jenkins-mcap-eas-plugin.git</developerConnection>
+	    <url>https://github.com/cbugyimway/jenkins-mcap-eas-plugin</url>
 	</scm>
   	
   		
