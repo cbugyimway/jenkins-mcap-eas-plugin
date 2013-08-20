@@ -3,14 +3,11 @@
 	<parent>
 		<groupId>org.jenkins-ci.plugins</groupId>
 		<artifactId>plugin</artifactId>
-		<version>1.526</version><!-- which version of Jenkins is this plugin 
+		<version>1.526 -SNAPSHOT</version><!-- which version of Jenkins is this plugin 
 			built against? -->
+	<packaging>hpi</packaging>
 	</parent>
 
-	<groupId>org.jenkins-ci.plugins</groupId>
-	<artifactId>Relution</artifactId>
-	<version>1.526</version>
-	<packaging>hpi</packaging>
 	
   	<scm>
 	    <connection>scm:git:ssh://github.com/jenkinsci/jenkins-mcap-eas-plugin.git</connection>
