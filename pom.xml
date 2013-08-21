@@ -9,7 +9,7 @@
 
 	<groupId>org.jenkins-ci.plugins</groupId>
 	<artifactId>Relution</artifactId>
-	<version>1.527</version>
+	<version>1.528-SNAPSHOT</version>
 	<packaging>hpi</packaging>
 	
   	<scm>
