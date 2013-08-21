@@ -17,6 +17,14 @@
 	    <developerConnection>scm:git:ssh://git@github.com/cbugyimway/jenkins-mcap-eas-plugin.git</developerConnection>
 	    <url>https://github.com/cbugyimway/jenkins-mcap-eas-plugin</url>
 	</scm>
+	
+  	<developers>
+    <developer>
+      <id>mwaylabs</id>
+      <name>M-Way Solutions</name>
+      <email>jenkins.ios.bot@mwaysolutions.com</email>
+    </developer>
+  </developers>
   	
   		
 	<!-- 
