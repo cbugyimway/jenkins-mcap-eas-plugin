@@ -6,7 +6,7 @@
 		<version>1.526</version><!-- which version of Jenkins is this plugin built against? -->
 	</parent>
 	
-	<url>http://wiki.jenkins-ci.org/display/JENKINS/Jenkins-Relution</url>	
+	<url>http://wiki.jenkins-ci.org/display/JENKINS/mcap-eas-plugin</url>	
 
 	<groupId>org.jenkins-ci.plugins</groupId>
 	<artifactId>mcap-eas-plugin</artifactId>
